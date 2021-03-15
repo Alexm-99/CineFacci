@@ -1,0 +1,53 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family:  monospace
+}
+a{
+    text-decoration:none;
+    color: #61530c;
+}
+.container1{
+    height: 685px;
+    padding:1%;
+    border: 1px;
+    padding-inline:30%;
+    padding-top: 10%;
+}
+.container2{
+    padding-inline: 20%;
+    text-align: center;
+}
+.container2 h1{
+margin-block-end: 5%;
+}
+.login {
+    padding-top: 4px;
+    border: 1px solid #dadde1;
+    border-radius: 8px;
+}
+.CajaTexto{
+    width: 100%;
+    margin-block: 10px;
+    padding-block: 10px;
+    font-size: 14px;
+    padding: 6px 3px;
+}
+.CajaTexto input{
+    height: 30px;
+    border: 1px solid #dadde1;
+    width: 80%;
+    padding-left: 3px;
+    font-size: 17px;
+    border-radius: 6px;
+}
+
+.boton button{
+    margin-block: 15px;
+    border:1px solid #B0961B;
+    background-color:#f1e292;
+    width: 60%;
+    height: 30px;
+    border-radius: 6px;
+}
